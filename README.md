@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **T5 Based Q&A Generation model**
 
-- 🌱 I’m currently learning **ML,Datascience,Langchain**
+- 🌱 I’m currently learning **ML,Data science,Langchain**
 
 - 📫 How to reach me **pokhrelarahanta5@gmail.com**
 
-- ⚡ Fun fact **I think I am creative**
+- ⚡  **I think I am creative,Hard Working and Fast Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
