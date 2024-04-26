@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arahanta&label=Profile%20views&color=0e75b6&style=flat" alt="arahanta" /> </p>
 
-- 🔭 I’m currently working on **T5 Based Q&A Generation model**
+- 🔭 **AI/ML Engineer**
 
 - 🌱 I’m currently learning **ML,Data science,Langchain**
 
