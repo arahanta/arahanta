@@ -6,7 +6,7 @@
 
 - 🔭 **AI/ML Engineer**
 
-- 🌱 I’m currently learning **ML,Data science,Langchain**
+- 🌱 I’m currently learning **ML,AI,Data science**
 
 - 📫 How to reach me **pokhrelarahanta5@gmail.com**
 
